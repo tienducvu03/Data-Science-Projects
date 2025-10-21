@@ -5,7 +5,7 @@ A collection of machine learning projects demonstrating various data science tec
 ## Projects Overview
 
 ### 1. Customer Churn Analysis
-**File:** `Customer_churn_analysis.ipynb`
+**File:** `Customer_churn_analysis.ipynb` | **[📖 Detailed Documentation](Customer_Churn_Analysis_README.md)**
 
 Predicts customer churn for a telecommunications company using machine learning classification models.
 
@@ -29,7 +29,7 @@ Predicts customer churn for a telecommunications company using machine learning 
 ---
 
 ### 2. Airline Customer Satisfaction Analysis
-**File:** `airline_analysis.ipynb`
+**File:** `airline_analysis.ipynb` | **[📖 Detailed Documentation](Airline_Analysis_README.md)**
 
 Analyzes airline customer satisfaction using classification models to predict satisfied vs. dissatisfied customers.
 
@@ -50,7 +50,7 @@ Analyzes airline customer satisfaction using classification models to predict sa
 ---
 
 ### 3. E-Commerce Payment Analysis
-**File:** `e_commerce.ipynb`
+**File:** `e_commerce.ipynb` | **[📖 Detailed Documentation](E_Commerce_README.md)**
 
 Predicts payment values for Brazilian e-commerce transactions using regression models.
 
@@ -73,7 +73,7 @@ Predicts payment values for Brazilian e-commerce transactions using regression m
 ---
 
 ### 4. Finance Mortgage Loan Default Prediction
-**File:** `Finance_Mortgage_loan_analysist.ipynb`
+**File:** `Finance_Mortgage_loan_analysist.ipynb` | **[📖 Detailed Documentation](Mortgage_Loan_Analysis_README.md)**
 
 Predicts mortgage loan defaults using borrower financial information and loan characteristics.
 
@@ -185,10 +185,18 @@ Click the "Open in Colab" badge at the top of each notebook to run in Google Col
 Data-Science-Projects/
 │
 ├── Customer_churn_analysis.ipynb          # Telecom churn prediction
+├── Customer_Churn_Analysis_README.md      # Detailed project documentation
+│
 ├── airline_analysis.ipynb                 # Airline satisfaction analysis
+├── Airline_Analysis_README.md             # Detailed project documentation
+│
 ├── e_commerce.ipynb                       # E-commerce payment prediction
+├── E_Commerce_README.md                   # Detailed project documentation
+│
 ├── Finance_Mortgage_loan_analysist.ipynb  # Mortgage default prediction
-└── README.md                              # Project documentation
+├── Mortgage_Loan_Analysis_README.md       # Detailed project documentation
+│
+└── README.md                              # Main portfolio documentation
 ```
 
 ---
